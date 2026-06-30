@@ -1,3 +1,3 @@
-<strong>CORS basics and how to handle it</strong>
+<strong>Mini-Doc on ReactAPI</strong>
 
-<img width="674" height="227" alt="image" src="https://github.com/user-attachments/assets/3f0848f9-b964-4989-9b6f-31822a0b9ac6" />
+<img width="770" height="718" alt="image" src="https://github.com/user-attachments/assets/e4abde0a-2d96-4fed-96ef-0a7b9c852c3f" />
